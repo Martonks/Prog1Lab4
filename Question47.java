@@ -1,4 +1,3 @@
-import java.util.*;
 
 // This program does the product of integers between 3 and 7 inclusive
 // @Martin Calero
